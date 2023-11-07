@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio03</string>
+    <string name="textView_roman_text">Ingrese un numero romano</string>
+    <string name="button_multiplicar_text">Multiplicar</string>
+</resources>
